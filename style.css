@@ -1,4 +1,9 @@
-image {
-	width: 50%;
+img {
+	width: 40%;
 	height: auto;
+}
+
+body {
+	margin:auto;
+	width:50%;
 }
