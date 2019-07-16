@@ -1,9 +1,11 @@
-img {
-	width: 40%;
+.oversizeimage {
+	width: 30%;
 	height: auto;
 }
 
 body {
 	margin:auto;
 	width:50%;
+	border-radius:10em;
+	border-color:gray;
 }
