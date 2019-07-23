@@ -9,3 +9,7 @@ body {
 	border-radius:10em;
 	border-color:gray;
 }
+
+th, td, table {
+	border:1px solid black;
+}
