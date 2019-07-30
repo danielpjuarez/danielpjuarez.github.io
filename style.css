@@ -3,6 +3,10 @@
 	height: auto;
 }
 
+background {
+	color: lightgray;
+}
+
 body {
 	margin:auto;
 	width:50%;
