@@ -3,15 +3,12 @@
 	height: auto;
 }
 
-background {
-	color: lightgray;
-}
-
 body {
 	margin:auto;
 	width:50%;
 	border-radius:10em;
 	border-color:gray;
+	background-color:lightgray;
 }
 
 th, td, table {
